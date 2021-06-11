@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 ### 📫 Here are a few ways to contact me:
 
-  [<img src="linkedin" width="32" height="32">](https://www.linkedin.com/in/daehee--kim/) [<img src="itch" width="32" height="32">](https://mockturtle7.itch.io/)
+  [<img src="linkedin.svg" width="32" height="32">](https://www.linkedin.com/in/daehee--kim/) [<img src="itchdotio.svg" width="32" height="32">](https://mockturtle7.itch.io/)
