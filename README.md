@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
     I am actively looking for an opportunity to participate in a game development.
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhk465&line_height=33&theme=tokyonight" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhk465&langs_count=5&hide=jupyter%20notebook,html,css,vue&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-dhk465.vercel.app/api?username=dhk465&line_height=33&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-dhk465.vercel.app/api/top-langs/?username=dhk465&langs_count=5&hide=jupyter%20notebook,html,css,vue&theme=tokyonight" />
 </p>
 
 ### 🌱 Languages and techs I am interested in and willing to keep learning more:
