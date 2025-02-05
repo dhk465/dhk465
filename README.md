@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
 
     My name is Daehee.
 
-    I am actively looking for an opportunity to participate in a game development.
-
 <p align="center">
     <img align="center" src="https://github-readme-stats-dhk465.vercel.app/api?username=dhk465&line_height=33&theme=tokyonight" />
     <img align="center" src="https://github-readme-stats-dhk465.vercel.app/api/top-langs/?username=dhk465&langs_count=5&hide=jupyter%20notebook,html,css,vue&theme=tokyonight" />
